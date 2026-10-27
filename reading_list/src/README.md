@@ -30,7 +30,7 @@ Visit the live demo using the link above.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kanishka-Tripathi2007/reading_list.git
+   git clone https://github.com/Kuldeepkumarnaga77-sys/reading_list.git
    ```
 
 2. Open the project folder in your code editor.
@@ -54,10 +54,10 @@ Visit the live demo using the link above.
 
 ## 👩‍💻 Author
 
-**Kanishka Tripathi**
+**Kuldeep Kumar Naga**
 
-* GitHub: [Kanishka-Tripathi2007](https://github.com/Kanishka-Tripathi2007)
-* Repository: [Reading List](https://github.com/Kanishka-Tripathi2007/reading_list)
+* GitHub: [Kuldeepkumarnaga77-sys](https://github.com/Kuldeepkumarnaga77-sys)
+* Repository: [Reading List](https://github.com/Kuldeepkumarnaga77-sys/reading_list)
 * Live Demo: [Reading List Website](https://student-reading-list-z7d3.bolt.host/)
 
 
